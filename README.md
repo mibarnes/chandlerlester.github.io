@@ -60,7 +60,6 @@ Find more [here](https://github.com/planetjekyll/awesome-jekyll-themes)
     2. Then I followed the online tutorial for some basic edits  
     
     3. Since I am obsessed with customization, I made a lot of other changes 
-  + [Look at how many commits I have!](https://github.com/chandlerlester/chandlerlester.github.io)
     
 ## How Customizable are these Sites? 
 
