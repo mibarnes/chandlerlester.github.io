@@ -1,0 +1,200 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "contrast" #"air" "dirt" , "dark", "default" , "aqua",  "neon", "mint", "plum", "sunrise"
+#classes                  : wide
+# Site Settings
+locale                   : "en-US"
+title                    : "Chandler Lester"
+title_separator          : "-"
+name                     : "Chandler Lester"
+description              : "Chandler's website"
+url                      : "chandlerlester.com"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               :
+teaser                   : 
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 
+include                  : ["_pages"]
+search                   : false # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : "lunr"
+algolia:
+  application_id         : "I8M6E9IFII"
+  index_name             : "dev_minimal-mistakes"
+  search_only_api_key    : "6b32bbb83a1a9a87fdaef30095f49fd4"
+  powered_by             : true
+
+# Social Sharing
+twitter:
+  username               : 
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider               : #"custom"
+
+
+# Site Author
+author:
+  name             : "Contact"
+  avatar           : "images/Professional_HeadShot.jpg"
+  bio              : " " #nothing here  
+  location         : #"University of Oregon"
+  email            : clester3@uoregon.edu 
+  uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
+  github           : chandlerlester
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  twitter          : ChandlerLester_
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: https://twitter.com/ChandlerLester_
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/chandlerlester
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - _posts 
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 1 # amount of posts to show
+paginate_path: _posts/page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
+# Archives
+category_archive:
+  type: liquid
+  path: #/about/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
+defaults:
+# _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: splash
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: true
+      related: true
+
+     
