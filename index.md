@@ -17,6 +17,7 @@ You can also find me at:
 <a href="mailto:clester3@uoregon.edu" target="_blank" style="color:#515151;"><i class="fa fa-envelope"></i> Email</a> 
 
 <a href="https://github.com/chandlerlester" target="_blank" style="color:#515151;"><i class="fab fa-fw fa-github"</i>GitHub </a>
+
 </p>
 </div>
 
