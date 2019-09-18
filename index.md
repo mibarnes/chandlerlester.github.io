@@ -12,13 +12,9 @@ You can also find me at:
 
 <div class="contact-buttons" style="line-height:160%;padding-left:8em;margin-top:10px">
 <p>
-<a href="https://twitter.com/ChandlerLester_" target="_blank" style="color:#515151" text-decoration:none;><i class="fab fa-fw fa-twitter-square"></i>
-Twitter </a>
-  &nbsp;
-<a href="mailto:clester3@uoregon.edu" target="_blank" style="color:#515151" text-decoration:none;><i class="fa fa-envelope"></i> Email </a> 
-  &nbsp;
-<a href="https://github.com/chandlerlester" target="_blank" style="color:#515151" text-decoration:none;><i class="fab fa-fw fa-github"></i>
-  GitHub </a>
+<a href="https://twitter.com/ChandlerLester_" target="_blank" style="color:#515151" text-decoration:none;><i class="fab fa-fw fa-twitter-square"></i>Twitter </a>
+<a href="mailto:clester3@uoregon.edu" target="_blank" style="color:#515151" text-decoration:none;><i class="fa fa-envelope"></i> Email</a> 
+<a href="https://github.com/chandlerlester" target="_blank" style="color:#515151" text-decoration:none;><i class="fab fa-fw fa-github"</i>GitHub </a>
 </p>
 </div>
 
