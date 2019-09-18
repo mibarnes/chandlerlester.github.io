@@ -13,9 +13,9 @@ You can also find me at:
 <div class="contact-buttons" style="line-height:160%;padding-left:8em;margin-top:10px">
 <p>
 <a href="https://twitter.com/ChandlerLester_" target="_blank" style="color:#515151;"><i class="fab fa-fw fa-twitter-square"></i>Twitter</a>
-  &nbsp
+  &nbsp;
 <a href="mailto:clester3@uoregon.edu" target="_blank" style="color:#515151;"><i class="fa fa-envelope"></i> Email</a> 
-&nbsp
+&nbsp;
 <a href="https://github.com/chandlerlester" target="_blank" style="color:#515151;"><i class="fab fa-github"></i>GitHub </a>
 
 </p>
