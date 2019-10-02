@@ -20,7 +20,8 @@ class: wide
    [*Syllabus*](../images/EC313_F2018.pdf)
    
 - **EC202:** *Principles of Macroeconomics*  
-  *Fall 2019 (Scheduled)* 
+  Fall 2019
+  Syllabus: [*Infographic Version*](../images/ec202-fall2019_40286598.png), [*Text Version*](../images/EC202_F19.pdf)
   
 | **As a Discussion Leader**                 |  **Term(s)**                                |
 |--------------------------------------------|---------------------------------------------|
