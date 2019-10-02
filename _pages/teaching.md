@@ -16,11 +16,11 @@ class: wide
 **As an Indepent Instructor:**
 
 - **EC313:** *Intermediate Macroeconomics*  
-   Summer 2018, Fall 2018, *Spring 2020 (Scheduled)* 
+   Summer 2018, Fall 2018, *Spring 2020 (Scheduled)*  
    [*Syllabus*](../images/EC313_F2018.pdf)
    
 - **EC202:** *Principles of Macroeconomics*  
-  Fall 2019
+  Fall 2019  
   Syllabus: [*Infographic Version*](../images/ec202-fall2019_40286598.png), [*Text Version*](../images/EC202_F19.pdf)
   
 | **As a Discussion Leader**                 |  **Term(s)**                                |
