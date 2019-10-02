@@ -23,6 +23,8 @@ class: wide
   Fall 2019  
   Syllabus: [*Infographic Version*](../images/ec202-fall2019_40286598.pdf), [*Text Version*](../images/EC202_F19.pdf)
   
+**As a Graduate Assistant:**
+  
 | **As a Discussion Leader**                 |  **Term(s)**                                |
 |--------------------------------------------|---------------------------------------------|
 |**EC 201:** *Principles of Microeconomics*  | Fall 2016, Spring 2018                      |               
@@ -30,7 +32,7 @@ class: wide
 |**EC 423/523:** *Econometrics*              | Fall 2017 (*First Year PhD course*)         |     
 
 
-| **Other Teaching Assistant Assignments** |  **Term(s)**                                |
+| **Select Grading Assignments**           |  **Term(s)**                                |
 |------------------------------------------|---------------------------------------------|
 |**EC 313:** *Intermediate Macroeconomics* | Fall 2017, Winter 2018                      |                                     
 |**EC 420/520:** *Computational Macro.*    | Spring 2019                                 | 
