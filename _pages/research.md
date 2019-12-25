@@ -27,7 +27,6 @@ This setting advantageous as the solution algorithms for these models is fast an
 then using exact discrete time models that depend on time intervals I demonstrate that the discrete models limit to the continuous-time models.
 The majority of this paper focuses on stylized learning rules in the continuous-time setting. 
 These stylized learning rules involve updating parameters, but no direct feedback from the model itself.</font>
-
 *<font size="2">For more information and code from this project visit my [github repo](https://github.com/chandlerlester/Stylized_Learning).</font>*
 
 
