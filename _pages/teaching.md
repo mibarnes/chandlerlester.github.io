@@ -24,7 +24,7 @@ class: wide
   Syllabus: [*Infographic Version*](../images/ec202-fall2019_40286598.pdf), [*Text Version*](../images/EC202_F19.pdf)
   
 
-|**As a Graduate Assistant:**||
+|**As a Graduate Assistant:**||||
 |---|---|---|---|
 | **As a Discussion Leader** |  **Term(s)**  | **Select Grading Assignments** |  **Term(s)**  |
 |**EC 201:** *Principles of Microeconomics*| Fall 2016, Spring 2018 |**EC 313:** *Intermediate Macroeconomics* | Fall 2017, Winter 2018|    |**EC 202:** *Principles of Macroeconomics*  | Winter 2017 |**EC 420/520:** *Computational Macro.* | Spring 2019| 
