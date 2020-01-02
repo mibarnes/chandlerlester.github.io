@@ -26,13 +26,6 @@ class: wide
 
 |**As a Graduate Assistant:**||
 |--------------------------------------------|---------------------------------------------|
-| **As a Discussion Leader**                 |  **Term(s)**                                |
-|**EC 201:** *Principles of Microeconomics*  | Fall 2016, Spring 2018                      |               
-|**EC 202:** *Principles of Macroeconomics*  | Winter 2017                                 |
-|**EC 423/523:** *Econometrics*              | Fall 2017  (*First Year PhD course*)        |     
-||
-| **Select Grading Assignments**             |  **Term(s)**                                |
-|--------------------------------------------|---------------------------------------------|
-|**EC 313:** *Intermediate Macroeconomics*   | Fall 2017, Winter 2018                      |                                     
-|**EC 420/520:** *Computational Macro.*      | Spring 2019                                 | 
-|**EC 422/522:** *Forecasting*               | Winter 2018, Winter 2019                    |
+| **As a Discussion Leader** |  **Term(s)**  | **Select Grading Assignments** |  **Term(s)**  |
+|**EC 201:** *Principles of Microeconomics*| Fall 2016, Spring 2018 |**EC 313:** *Intermediate Macroeconomics* | Fall 2017, Winter 2018|    |**EC 202:** *Principles of Macroeconomics*  | Winter 2017 |**EC 420/520:** *Computational Macro.* | Spring 2019| 
+|**EC 423/523:** *Econometrics*  | Fall 2017  (*First Year PhD course*) |**EC 422/522:** *Forecasting* | Winter 2018, Winter 2019 |     
