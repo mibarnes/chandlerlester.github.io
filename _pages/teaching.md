@@ -36,3 +36,18 @@ class: wide
 |**EC 313:** *Intermediate Macroeconomics*   | Fall 2017, Winter 2018                      |                                     
 |**EC 420/520:** *Computational Macro.*      | Spring 2019                                 | 
 |**EC 422/522:** *Forecasting*               | Winter 2018, Winter 2019                    |
+
+{| class="wikitable"
+|-
+! Header 1
+! Header 2
+! Header 3
+|-
+| row 1 cell 1
+| row 1 cell 2
+| row 1 cell 3
+|-
+| row 2 cell 1
+| row 2 cell 2
+| row 2 cell 3
+|}
