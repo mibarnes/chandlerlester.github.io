@@ -23,10 +23,10 @@ class: wide
   Fall 2019  
   Syllabus: [*Infographic Version*](../images/ec202-fall2019_40286598.pdf), [*Text Version*](../images/EC202_F19.pdf)
   
-**As a Graduate Assistant:**
-  
-| **As a Discussion Leader**                 |  **Term(s)**                                |
+
+|**As a Graduate Assistant:**||
 |--------------------------------------------|---------------------------------------------|
+| **As a Discussion Leader**                 |  **Term(s)**                                |
 |**EC 201:** *Principles of Microeconomics*  | Fall 2016, Spring 2018                      |               
 |**EC 202:** *Principles of Macroeconomics*  | Winter 2017                                 |
 |**EC 423/523:** *Econometrics*              | Fall 2017  (*First Year PhD course*)        |     
