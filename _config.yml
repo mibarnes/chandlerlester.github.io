@@ -74,6 +74,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/chandlerlester
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: mailto:clester3@uoregon.edu
 
 # Reading Files
 include:
