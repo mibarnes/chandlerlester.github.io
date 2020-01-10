@@ -10,6 +10,7 @@ class: wide
  # overlay_image: ../images/Research_splash.jpg
 ---
 # Research 
+---
 
 ## My Work 
 
