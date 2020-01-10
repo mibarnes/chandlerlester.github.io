@@ -11,9 +11,6 @@ class: wide
 ---
 # Research 
 ---
-
-## My Work 
-
 <font size="3">My work focuses on implementing adaptive learning techniques in stochastic continuous-time models. 
 
 This setting advantageous as the solution algorithms for these models is fast and yields detailed information about the distribution of key variables. </font>
