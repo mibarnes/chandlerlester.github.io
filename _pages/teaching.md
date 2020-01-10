@@ -13,7 +13,7 @@ class: wide
 # Teaching
 ---
 
-## As an Indepent Instructor:**
+## As an Indepent Instructor:
 
 - **EC313:** *Intermediate Macroeconomics*&mdashSummer 2018, Fall 2018, *Spring 2020 (Scheduled)*  
    [*Syllabus*](../images/EC313_F2018.pdf)
