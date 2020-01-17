@@ -9,7 +9,7 @@ main:
     url: https://chandlerlester.github.io/_pages/teaching/
     
   - title: CV
-    url: https://chandlerlester.github.io/images/CV.pdf
+    url: ../images/CV.pdf
 
   - title: Posts
     url: https://chandlerlester.github.io/posts/
