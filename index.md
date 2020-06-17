@@ -10,4 +10,4 @@ Other projects of mine focus on predicting bank failures using machine learning 
 
 Areas of interest: continuous-time macroeconomics, adaptive learning, finance, banking, and computational methods.  
 
-I will be on the job-market during the 2020-20201 academic year. 
+I will be on the job-market during the 2020-2021 academic year. 
