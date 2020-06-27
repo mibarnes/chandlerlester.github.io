@@ -1,9 +1,6 @@
 ---
 title: "Teaching" 
 layout: splash
-author_profile: true
-share: false 
-comments: false
 class: wide 
 ---
 
