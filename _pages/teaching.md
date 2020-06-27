@@ -10,7 +10,7 @@ class: wide
 
 ## As an Independent Instructor:
 
-<iframe src="/images/teachingfig.html" scrolling = "yes" ></iframe>
+<iframe src="/images/teachingfig.html" scrolling = "yes" width="50%" height="500"></iframe>
 
 <div style="width:50%; height:500px;float:right" markdown="1"> 
 
