@@ -10,8 +10,6 @@ class: wide
 
 ## As an Independent Instructor:
 
-{% include teachingfig.html %}
-
 <div style="width:50%; height:500px;float:right" markdown="1"> 
 
 **EC313:** *Intermediate Macroeconomics*
