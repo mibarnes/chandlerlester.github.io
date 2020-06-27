@@ -59,20 +59,18 @@ class: wide
 
 ## As an Indepent Instructor:
 
-<body>
-<div id="htmlwidget_container">
+<div id="htmlwidget_container" style="width:50%; height:500px;float:left">
   <div id="htmlwidget-455f1c85af921c181637" style="width:400px;height:350px;" class="highchart html-widget"></div>
 </div>
 <script type="application/json" data-for="htmlwidget-455f1c85af921c181637">{"x":{"hc_opts":{"title":{"text":"Instructional Quality by Course","margin":20,"align":"left","style":{"useHTML":true}},"yAxis":{"title":{"text":null}},"credits":{"enabled":false},"exporting":{"enabled":false},"plotOptions":{"series":{"label":{"enabled":false},"turboThreshold":0},"treemap":{"layoutAlgorithm":"squarified"}},"xAxis":{"categories":["EC 313 Summer 2018","EC 313 Fall 2018","EC 313 Spring 2020","EC 202 Fall 2019"],"title":"Classes"},"series":[{"data":[4,4,4.6,4.6],"name":"My_Score"},{"data":[4,4,4,3.9],"name":"Historic_Average"}],"chart":{"type":"column"}},"theme":{"chart":{"backgroundColor":"transparent"}},"conf_opts":{"global":{"Date":null,"VMLRadialGradientURL":"http =//code.highcharts.com/list(version)/gfx/vml-radial-gradient.png","canvasToolsURL":"http =//code.highcharts.com/list(version)/modules/canvas-tools.js","getTimezoneOffset":null,"timezoneOffset":0,"useUTC":true},"lang":{"contextButtonTitle":"Chart context menu","decimalPoint":".","downloadJPEG":"Download JPEG image","downloadPDF":"Download PDF document","downloadPNG":"Download PNG image","downloadSVG":"Download SVG vector image","drillUpText":"Back to {series.name}","invalidDate":null,"loading":"Loading...","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"noData":"No data to display","numericSymbols":["k","M","G","T","P","E"],"printChart":"Print chart","resetZoom":"Reset zoom","resetZoomTitle":"Reset zoom level 1:1","shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"thousandsSep":" ","weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]}},"type":"chart","fonts":[],"debug":false},"evals":[],"jsHooks":[]}</script>
 <script type="application/htmlwidget-sizing" data-for="htmlwidget-455f1c85af921c181637">{"viewer":{"width":"400px","height":"350px","padding":0,"fill":false},"browser":{"width":"400px","height":"350px","padding":0,"fill":false}}</script>
-</body>
 
 <div style="width:50%; height:500px;float:right"> 
 
-- **EC313:** *Intermediate Macroeconomics*&mdash;Summer 2018, Fall 2018, Spring 2020  
+**EC313:** *Intermediate Macroeconomics*&mdash;Summer 2018, Fall 2018, Spring 2020  
    Syllabus: [*Original*](../images/EC313_F2018.pdf), [*COVID-19 Version*](../images/EC313_SP20.pdf)
    
-- **EC202:** *Principles of Macroeconomics*&mdash;Fall 2019  
+**EC202:** *Principles of Macroeconomics*&mdash;Fall 2019  
   Syllabus: [*Infographic Version*](../images/ec202-fall2019_40286598.pdf), [*Text Version*](../images/EC202_F19.pdf)
   
 </div> 
@@ -83,18 +81,19 @@ class: wide
 </div> 
 
 ### Selected Student Feedback
-<div style="width:50%; height:500px;float:left">
 
-**EC313:** Intermediate Macroeconomics 
+<div style="width:50%; height:500px;float:left"> 
 
-- 
+**EC313:** Intermediate Macroeconomics  
+
+
 </div> 
 
-<div style="width:50%; height:500px;float:right">
+<div style="width:50%; height:500px;float:right"> 
 
-**EC202:** Principles of Macroeconomics  
+**EC202:** Principles of Macroeconomics   
 
-- 
+
 </div> 
 
   
