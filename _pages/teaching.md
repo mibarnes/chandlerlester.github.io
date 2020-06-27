@@ -61,7 +61,7 @@ class: wide
 
 ## As an Indepent Instructor:
 
-<div id="htmlwidget-455f1c85af921c181637"style="width:50%;height:500px;float:left" class="highchart html-widget"></div>
+<div id="htmlwidget-455f1c85af921c181637" style="width:50%;height:500px;float:left" class="highchart html-widget"></div>
 
 <div style="width:50%; height:500px;float:right">
 - **EC313:** *Intermediate Macroeconomics*&mdash;Summer 2018, Fall 2018, Spring 2020  
