@@ -57,7 +57,7 @@ title: "Teaching"
 
 ## As an Independent Instructor:
 
-<div id="htmlwidget-b7fc6414533857330fb6 class="highchart html-widget" style="width:50%;height:500px;float:left">
+<div id="htmlwidget-b7fc6414533857330fb6" class="highchart html-widget" style="width:50%;height:500px;float:left">
 
 <div style="width:50%;height:500px;float:right" markdown="1"> 
 
