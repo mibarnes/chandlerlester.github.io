@@ -71,6 +71,7 @@ class: wide
 <script type="application/htmlwidget-sizing" data-for="htmlwidget-455f1c85af921c181637">{"viewer":{"width":"400px","height":"350px","padding":0,"fill":false},"browser":{"width":"400px","height":"350px","padding":0,"fill":false}}</script>
 
 
+<div> 
 - **EC313:** *Intermediate Macroeconomics*&mdash;Summer 2018, Fall 2018, Spring 2020  
    Syllabus: [*Original*](../images/EC313_F2018.pdf), [*COVID-19 Version*](../images/EC313_SP20.pdf)
    
