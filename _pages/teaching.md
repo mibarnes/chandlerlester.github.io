@@ -10,7 +10,7 @@ class: wide
 
 ## As an Independent Instructor:
 
-<iframe src="../images/teachingfig.html"></iframe>
+<iframe src="http://chandlerlester.com/test/" style="width:50%; height:500px;float:left"></iframe>
 
 <div style="width:50%; height:500px;float:right" markdown="1"> 
 
