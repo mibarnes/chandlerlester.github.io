@@ -37,12 +37,11 @@ class: wide
 
 **EC313:** Intermediate Macroeconomics  
 
-
 </div> 
+
 <div style="width:50%; height:500px;float:right" markdown="1"> 
 
 **EC202:** Principles of Macroeconomics   
-
 
 </div> 
 
