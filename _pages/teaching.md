@@ -33,17 +33,7 @@ class: wide
 
 ### Selected Student Feedback
 
-<div style="width:50%; height:500px;float:left" markdown="1"> 
 
-**EC313:** Intermediate Macroeconomics  
-
-</div> 
-
-<div style="width:50%; height:500px;float:right" markdown="1"> 
-
-**EC202:** Principles of Macroeconomics   
-
-</div> 
 
   
 ## As a Graduate Assistant 
