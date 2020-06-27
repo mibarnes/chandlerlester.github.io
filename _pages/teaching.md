@@ -11,7 +11,7 @@ class: wide
 ## As an Independent Instructor:
 
 <div style="width:50%; height:500px;float:left">
-{% include teachingfig.html %}
+<img class="img-responsive" src="../images/teachingfig.html">
 </div> 
 
 <div style="width:50%; height:500px;float:right" markdown="1"> 
