@@ -1,7 +1,6 @@
 ---
-title: "Teaching" 
+title: "Teaching"
 ---
-
 
 
 <head>
@@ -52,12 +51,9 @@ title: "Teaching"
 
 </head>
 
-# Teaching
----
+# As An Independent Instructor
 
-## As an Independent Instructor:
-
-<div id="htmlwidget-b7fc6414533857330fb6" class="highchart html-widget" style="width:50%;height:500px;float:left">
+<div id="htmlwidget-b7fc6414533857330fb6" style="width:50%;height:500px;float:left" class="highchart html-widget"></div>
 
 <div style="width:50%;height:500px;float:right" markdown="1"> 
 
@@ -70,23 +66,9 @@ title: "Teaching"
   
 </div> 
 
+# New header 
 
-
-### Selected Student Feedback
-
-
-
-  
-## As a Graduate Assistant 
-
-| **Class** |  **Term(s)** | **Duties** |
-|---|---|---|
-|**EC 201:** *Principles of Microeconomics*| Fall 2016, Spring 2018 | Lead disscussion sections |  
-|**EC 202:** *Principles of Macroeconomics* | Winter 2017 | Lead disscussion sections |  
-|**EC 423/523:** *Econometrics*  | Fall 2017  (*First Year PhD course*) | Lead disscussion sections |   
-|**EC 313:** *Intermediate Macroeconomics* | Fall 2017, Winter 2018| Graded Student Assignments |
-|**EC 422/522:** *Forecasting* | Winter 2018, Winter 2019 | Graded Student Coding Assignments |
-|**EC 420/520:** *Computational Macro.* | Spring 2019| Graded Student Coding Assignments |
+This might be a section filled with even more information it wouldn't be confined to half of the pages spaceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 <script type="application/json" data-for="htmlwidget-b7fc6414533857330fb6">{"x":{"hc_opts":{"title":{"text":"Instructional Quality by Course","margin":20,"align":"left"},"yAxis":{"title":{"text":null}},"credits":{"enabled":false},"exporting":{"enabled":false},"plotOptions":{"series":{"label":{"enabled":false},"turboThreshold":0},"treemap":{"layoutAlgorithm":"squarified"}},"xAxis":{"categories":["EC 313 Summer 2018","EC 313 Fall 2018","EC 313 Spring 2020","EC 202 Fall 2019"],"title":"Classes"},"series":[{"data":[4,4,4.6,4.6],"name":"My_Score"},{"data":[4,4,4,3.9],"name":"Historic_Average"}],"chart":{"type":"column"}},"theme":{"chart":{"backgroundColor":"transparent"}},"conf_opts":{"global":{"Date":null,"VMLRadialGradientURL":"http =//code.highcharts.com/list(version)/gfx/vml-radial-gradient.png","canvasToolsURL":"http =//code.highcharts.com/list(version)/modules/canvas-tools.js","getTimezoneOffset":null,"timezoneOffset":0,"useUTC":true},"lang":{"contextButtonTitle":"Chart context menu","decimalPoint":".","downloadJPEG":"Download JPEG image","downloadPDF":"Download PDF document","downloadPNG":"Download PNG image","downloadSVG":"Download SVG vector image","drillUpText":"Back to {series.name}","invalidDate":null,"loading":"Loading...","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"noData":"No data to display","numericSymbols":["k","M","G","T","P","E"],"printChart":"Print chart","resetZoom":"Reset zoom","resetZoomTitle":"Reset zoom level 1:1","shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"thousandsSep":" ","weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]}},"type":"chart","fonts":[],"debug":false},"evals":[],"jsHooks":[]}</script>
 <script type="application/htmlwidget-sizing" data-for="htmlwidget-b7fc6414533857330fb6">{"viewer":{"width":"400px","height":"350px","padding":0,"fill":false},"browser":{"width":"400px","height":"350px","padding":0,"fill":false}}</script>
