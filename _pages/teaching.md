@@ -5,9 +5,6 @@ author_profile: true
 share: false 
 comments: false
 class: wide 
-# header:
-  # overlay_color: "#5e616c"
-  # overlay_image: ../images/teaching_splash.png
 --- 
 
 
