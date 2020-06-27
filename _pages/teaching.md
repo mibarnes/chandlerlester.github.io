@@ -10,9 +10,7 @@ class: wide
 
 ## As an Independent Instructor:
 
-<div style="width:50%; height:500px;float:left">
-<img class="img-responsive" src="../images/teachingfig.html">
-</div> 
+<img class="img-responsive" style="width:50%; height:500px;float:left" src="../images/teachingfig.html">
 
 <div style="width:50%; height:500px;float:right" markdown="1"> 
 
@@ -24,7 +22,6 @@ class: wide
   Syllabus: [*Infographic Version*](../images/ec202-fall2019_40286598.pdf), [*Text Version*](../images/EC202_F19.pdf)
   
 </div> 
-
 
 
 
