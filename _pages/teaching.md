@@ -45,7 +45,7 @@ Thank you for a great term and best wishes in all your future endeavours.* --EC 
 *Very helpful, engaged, and understanding instructor.* --EC 313 (Spring 2020)
 
 *Instructor did a great job at keeping class engaged. Very good at explaining how answers are obtained and encourages questions to be
-asked if need be.* --EC 313 (Fall 2020) 
+asked if need be.* --EC 313 (Fall 2018) 
   
 ## As a Graduate Assistant 
 
