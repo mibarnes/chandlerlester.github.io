@@ -68,6 +68,9 @@ author:
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon:  "fa fa-linkedin"
+      url: https://www.linkedin.com/in/chandlerlester/
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/ChandlerLester_
