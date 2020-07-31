@@ -55,6 +55,6 @@ asked if need be.* --EC 313 (Fall 2018)
 |**EC 202:** *Principles of Macroeconomics* | Winter 2017 | Lead discussion sections |  
 |**EC 423/523:** *Econometrics*  | Fall 2017  (*First Year PhD course*) | Lead discussion sections |   
 |**EC 313:** *Intermediate Macroeconomics* | Fall 2017, Winter 2018| Graded Student Assignments |
-|**EC 422/522:** *Forecasting* | Winter 2018, Winter 2019 | Graded Student Coding Assignments |
-|**EC 420/520:** *Computational Macro.* | Spring 2019| Graded Student Coding Assignments |
+|**EC 422/522:** *Forecasting* | Winter 2018, Winter 2019 | Graded Student Coding Assignments (RATS)|
+|**EC 420/520:** *Computational Macro.* | Spring 2019| Graded Student Coding Assignments (julia)|
 
