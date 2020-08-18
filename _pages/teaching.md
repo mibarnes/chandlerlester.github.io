@@ -56,5 +56,6 @@ asked if need be.* --EC 313 (Fall 2018)
 |**EC 423/523:** *Econometrics*  | Fall 2017  (*First Year PhD course*) | Lead discussion sections |   
 |**EC 313:** *Intermediate Macroeconomics* | Fall 2017, Winter 2018| Graded Student Assignments |
 |**EC 422/522:** *Forecasting* | Winter 2018, Winter 2019 | Graded Student Coding Assignments (RATS)|
-|**EC 420/520:** *Computational Macro.* | Spring 2019| Graded Student Coding Assignments (Julia)|
+|**EC 410/510:** *Computational Macro.* | Spring 2019| Graded Student Coding Assignments (Julia)|
 
+I have also graded for EC 311 (Intermediate Microeconomics x2), EC 327 (Introduction to Game Theory), EC 430 (Urban & Regional Economics), and EC 480 (International Finance). 
